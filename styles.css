@@ -1,9 +1,7 @@
 body{
     background: teal;
     color: whitesmoke;
-    display: flex;
     text-align: center;
-    justify-content: center;
 }
 
 h3 span {
